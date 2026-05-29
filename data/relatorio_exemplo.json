@@ -1,0 +1,14 @@
+{
+  "nome": "Paciente Exemplo",
+  "ancestralidade": {
+    "asiatica": 45,
+    "europeia": 35,
+    "africana": 20
+  },
+  "saude": [
+    {
+      "condicao": "Intolerancia a lactose",
+      "risco": "moderado"
+    }
+  ]
+}
