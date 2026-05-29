@@ -103,10 +103,6 @@ O modelo de linguagem utiliza apenas os trechos recuperados para gerar respostas
 
 * Python
 
-## Inteligência Artificial
-
-* OpenAI GPT-4o-mini
-
 ## Frameworks
 
 * LangChain
